@@ -22,13 +22,13 @@ img, video, iframe {
 h1{
 	font-family: "Anonymous Pro", serif;
 	font-weight: 700;
-	font-style: Bold;
+	
 }
 
 h1 a{
 	font-family: "Anonymous Pro", serif;
 	font-weight: 700;
-	font-style: Bold;
+	
 
 }
 h2{
@@ -291,7 +291,7 @@ startsida
 	font-family: "Anonymous Pro", serif;
     font-size: 20px;
     margin-bottom: 10px;
-	font-style: Bold ;
+	
 }
 
 .golf-item a {
@@ -878,7 +878,7 @@ resposnivitet
 		font-family: "Anonymous Pro", serif;
 		font-size: 15px;
 		margin-bottom: 15px;
-		font-style: Bold ;
+		
 	}
 
 	.golf-item a {
