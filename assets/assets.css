@@ -737,7 +737,7 @@ tävling
 .table-container {
     width: 100%;
     overflow-x: auto;
-	padding-left: 20px;  /* Gör tabellen skrollbar om den blir för bred */
+	padding-left: 20px;  
 }
 
 table {
